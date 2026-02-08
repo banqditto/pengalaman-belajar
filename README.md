@@ -1,11 +1,11 @@
-Pengalaman Belajar di Dicoding
+# Pengalaman Belajar di Dicoding
 
-14 Juni 2021
+**14 Juni 2021**<br>
 Belajar kelas Memulai Pemrograman dengan Python. (Progres 21%)
 * Belajar tentang apa itu Python dan alasan menggunakannya.
 * Belajar tools yang dapat digunakan untuk menjalankan bahasa pemrograman Python.
 
-15 Juni 2021
+**15 Juni 2021**<br>
 Belajar kelas Memulai Pemrograman dengan Python. (Progres 56%)
 * Belajar dasar-dasar Python, seperti struktur dasar, tipe data, string, operator, input output, dan array.
 * Belajar control flow dalam Python, seperti perulangan dan percabangan.
